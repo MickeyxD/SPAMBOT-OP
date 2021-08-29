@@ -34,7 +34,7 @@
    - REPLYRAID , RAID PLUGIN , HANDLER *
 
 
-### You can Use these [API ID and API HASH](https://t.me/RDX_OFFICIAL_BOT/2) while deploying
+### You can Use these [API ID and API HASH](https://t.me/VAMBOT_OFFICIAL/2) while deploying
 
 
 
@@ -43,7 +43,7 @@
 
 
 ## JOIN SUPPORT CHANNEL
-   - Join [DESTROYER CHANNEL](@RDX_OFFICIAL_BOT).
+   - Join [DESTROYER CHANNEL](@VAMBOT_OFFICIAL).
 
 
 ## Credits
